@@ -2,7 +2,7 @@
 ---
 ## multiclass project
 
-
+  <a href="https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing">Colab link</a> 
 
 https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing
 
