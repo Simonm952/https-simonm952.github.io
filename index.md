@@ -1,21 +1,12 @@
-## Portfolio
-
+# Portfolio
 ---
+## multiclass project
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
