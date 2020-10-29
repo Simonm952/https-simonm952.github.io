@@ -37,6 +37,7 @@
 
 ## App market plotly, stripplots
   <a href="https://drive.google.com/file/d/1E0pSe--UDSg_6RWWB0vlTpIKomZPh7w4/view?usp=sharing">Colab link</a> 
+  
   <a href="https://mybinder.org/v2/gh/Simonm952/simonm952.github.io/32a6c16507e049791b0e001ccb4f6bb7531c1198">Binder link</a> 
 
 
