@@ -8,6 +8,13 @@
 ## Matplotlib cryptocurrencies
 
   <a href="https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing">Colab link</a> 
+  
+
+## Big game filtering and plots
+
+  <a href="https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing">Colab link</a> 
+
+
 
 
 ### Category Name 2
