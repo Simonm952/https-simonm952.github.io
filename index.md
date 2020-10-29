@@ -35,6 +35,10 @@
 ## Extract stock beautifull soup and nltk
   <a href="https://drive.google.com/file/d/1G7lP5eWpNBdSl7v5Q9-H-UQ0sgSa0lPS/view?usp=sharing">Colab link</a> 
 
+## App market plotly, stripplots
+  <a href="https://drive.google.com/file/d/1E0pSe--UDSg_6RWWB0vlTpIKomZPh7w4/view?usp=sharing">Colab link</a> 
+
+
 
 
 
