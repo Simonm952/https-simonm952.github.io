@@ -32,6 +32,9 @@
   <a href="https://drive.google.com/file/d/1WBvC8lU5aWx0V-snAgo0YPYQOQiDnBDv/view?usp=sharing">Colab link</a> 
 
 
+## Extract stock beautifull soup and nltk
+  <a href="https://drive.google.com/file/d/1G7lP5eWpNBdSl7v5Q9-H-UQ0sgSa0lPS/view?usp=sharing">Colab link</a> 
+
 
 
 
