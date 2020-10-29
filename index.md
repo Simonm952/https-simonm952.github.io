@@ -18,6 +18,11 @@
 
   <a href="https://drive.google.com/file/d/166QNu1rd3ya82jy0CCO_nhDY0bacPtUU/view?usp=sharing">Colab link</a> 
 
+## Songs PCA and balancing data
+
+  <a href="https://drive.google.com/file/d/1fD9mzGrgW-2NEL8uW3zG-IK_ejLbKy9S/view?usp=sharing">Colab link</a> 
+
+
 
 
 
