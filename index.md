@@ -28,6 +28,9 @@
 
   <a href="https://drive.google.com/file/d/1bQzQZ5K_qopBqVlPwvy5UjYiJVspTXSq/view?usp=sharing">Colab link</a> 
 
+## Credit card handling missing values
+  <a href="https://drive.google.com/file/d/1WBvC8lU5aWx0V-snAgo0YPYQOQiDnBDv/view?usp=sharing">Colab link</a> 
+
 
 
 
