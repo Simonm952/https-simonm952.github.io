@@ -13,6 +13,12 @@
 ## Big game filtering and plots
 
   <a href="https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing">Colab link</a> 
+  
+## Cosmetics bag of words and Dimension reduction with t-SNE
+
+  <a href="https://drive.google.com/file/d/166QNu1rd3ya82jy0CCO_nhDY0bacPtUU/view?usp=sharing">Colab link</a> 
+
+
 
 
 
