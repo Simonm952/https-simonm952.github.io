@@ -1,11 +1,13 @@
 # Portfolio
 ---
-## multiclass project
+## multiclass project with pipeline and nlp
 
   <a href="https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing">Colab link</a> 
 
 
+## Matplotlib cryptocurrencies
 
+  <a href="https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing">Colab link</a> 
 
 
 ### Category Name 2
