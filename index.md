@@ -46,6 +46,11 @@
   
 ### Test-driven machine learning
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
+  
+### Unit testing
+ [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1F9d0MBDW3KbZXMmzW_V7fXubxJOZlCbS?usp=sharing)
+
+
 
 
 ## Data science structure
