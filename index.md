@@ -6,12 +6,14 @@
 
 ## Matplotlib cryptocurrencies
 
-  <a href="https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing">Colab link</a> 
+  
+  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing)
   
 
 ## Big game filtering and plots
 
-  <a href="https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing">Colab link</a> 
+  
+  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing)
   
 ## Cosmetics bag of words and Dimension reduction with t-SNE
 
