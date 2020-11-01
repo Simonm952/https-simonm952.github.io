@@ -3,6 +3,8 @@
 ## Multiclass project with pipeline and nlp
 
   <a href="https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing">Colab link</a> 
+[![](https://img.shields.io/badge/PyTorch-Run_in_Colab-EE4C2C?logo=PyTorch)]("https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing).
+
 
 
 ## Matplotlib cryptocurrencies
