@@ -46,6 +46,12 @@
 ### Test-driven machine learning
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
 
+
+## Data science structure
+  <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
+  
+  
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
