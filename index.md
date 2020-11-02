@@ -61,6 +61,11 @@
 
 
 
+### ml workflow pipelines
+ [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing)
+
+
+
 
 
 
