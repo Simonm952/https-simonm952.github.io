@@ -56,6 +56,11 @@
 ### efficient python code
  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1z7DIkqJ6B2C-AhWXjmaktr69cbvn7K6A?usp=sharing)
 
+### OOP
+ [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1CBSCiuzbqzou2wKk-3yxeOCEssyPsA5Q?usp=sharing)
+
+
+
 
 
 
