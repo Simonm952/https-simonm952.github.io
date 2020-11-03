@@ -80,6 +80,15 @@ https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sh
 
 
 
+### NLP
+ [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](
+https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sharing
+)
+
+
+
+
+
 
 
 ## Data science structure
