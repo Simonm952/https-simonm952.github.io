@@ -2,18 +2,21 @@
 ---
 ## Multiclass project with pipeline and nlp
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing)
+  <a href="https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing">Colab link</a> 
+
+
 
 ## Matplotlib cryptocurrencies
 
-  
-  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing)
+  <a href="https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing">Colab link</a> 
+
   
 
 ## Big game filtering and plots
 
   
-  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing)
+  <a href="https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing">Colab link</a> 
+
   
 ## Cosmetics bag of words and Dimension reduction with t-SNE
 
