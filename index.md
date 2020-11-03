@@ -51,10 +51,13 @@
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
   
 ### Unit testing
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1F9d0MBDW3KbZXMmzW_V7fXubxJOZlCbS?usp=sharing)
+
+<a href="https://colab.research.google.com/drive/1F9d0MBDW3KbZXMmzW_V7fXubxJOZlCbS?usp=sharing">Colab link</a> 
+
 
 ### software engineering for data science
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1mU7haFAkpYmxmVs3rj_8YuAcK5eJaivm?usp=sharing)
+
+<a href="https://colab.research.google.com/drive/1mU7haFAkpYmxmVs3rj_8YuAcK5eJaivm?usp=sharing">Colab link</a> 
 
 ### efficient python code
  [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1z7DIkqJ6B2C-AhWXjmaktr69cbvn7K6A?usp=sharing)
