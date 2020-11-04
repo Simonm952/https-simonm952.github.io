@@ -94,7 +94,7 @@ https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sh
 
 
 
-### Docker with Tensorflow
+### Docker with Tensorflow serving
 
 <a href="https://colab.research.google.com/drive/1lRI3CtgCSdKOQV0Eqt0rXZwTTRHQ3Zue?usp=sharing">Colab link</a> 
 
