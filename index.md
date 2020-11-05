@@ -105,6 +105,14 @@ https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sh
 
 
 
+### Data modeling with postgres
+
+<a href="https://colab.research.google.com/drive/1JBPaMVcPLPiapwHdu9F-Z8jXx8COBmqS?usp=sharing">Colab link</a> 
+
+
+
+
+
 ## Data science structure
   <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
   
