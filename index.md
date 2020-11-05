@@ -110,6 +110,10 @@ https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sh
 <a href="https://colab.research.google.com/drive/1JBPaMVcPLPiapwHdu9F-Z8jXx8COBmqS?usp=sharing">Colab link</a> 
 
 
+### Data modeling with apache cassandra
+
+<a href="https://colab.research.google.com/drive/1tseaGtIIoBJ3o2qrYP1OqB3x78eo31Jn?usp=sharing">Colab link</a> 
+
 
 
 
