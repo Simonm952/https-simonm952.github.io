@@ -121,6 +121,8 @@ https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sh
 ### Data lake with spark
 <a href="https://colab.research.google.com/drive/13_tNCnOXw3o43-3UKXG1vv6x3rBSlvH2?usp=sharing">Colab link</a> 
 
+### Data pipelines with airflow
+<a href="https://colab.research.google.com/drive/1U-5jFO4dh_s6WUs-IxbKSyOBw5Sl54in?usp=sharing">Colab link</a> 
 
 
 
