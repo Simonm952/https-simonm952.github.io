@@ -53,7 +53,8 @@
 ### Unit testing
 
 <a href="https://colab.research.google.com/drive/1F9d0MBDW3KbZXMmzW_V7fXubxJOZlCbS?usp=sharing">Colab link</a> 
-<script src="https://gist.github.com/Simonm952/7961feff6a6983ec8a06da99f27cfc1c.js"></script>
+
+
 
 ### software engineering for data science
 
