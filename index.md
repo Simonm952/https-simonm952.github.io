@@ -1,45 +1,77 @@
 # Portfolio
 ---
-## Multiclass project with pipeline and nlp
+
+## Data Science
+
+
+
+### Data science structure
+  <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
+  
+ 
+
+### ml workflow pipelines
+
+
+
+<a href="https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing">Colab link</a> 
+
+### feature engineering
+
+ 
+<a href="https://colab.research.google.com/drive/15W6T-3n5u-VZWEhnP21WYtQo-Wb15WGg?usp=sharing">Colab link</a> 
+
+### Xgboost in depth
+
+
+
+<a href="https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing">Colab link</a> 
+
+### NLP
+ 
+<a href="https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sharing">Colab link</a> 
+
+
+### Multiclass project with pipeline and nlp
 
   <a href="https://colab.research.google.com/drive/1yv9ynOU3FQwV4RHoxoe6jxEnmfsaLP4D?usp=sharing">Colab link</a> 
 
 
 
-## Matplotlib cryptocurrencies
+### Matplotlib cryptocurrencies
 
   <a href="https://drive.google.com/file/d/1Qd2VY4t8T24OP0oo8pMhHoB9vKUtpCyH/view?usp=sharing">Colab link</a> 
 
   
 
-## Big game filtering and plots
+### Big game filtering and plots
 
   
   <a href="https://drive.google.com/file/d/1A3NoX2Yo9Wqo-HU20qJzt5NoMVXJyaGA/view?usp=sharing">Colab link</a> 
 
   
-## Cosmetics bag of words and Dimension reduction with t-SNE
+### Cosmetics bag of words and Dimension reduction with t-SNE
 
   <a href="https://drive.google.com/file/d/166QNu1rd3ya82jy0CCO_nhDY0bacPtUU/view?usp=sharing">Colab link</a> 
 
-## Songs PCA and balancing data
+### Songs PCA and balancing data
 
   <a href="https://drive.google.com/file/d/1fD9mzGrgW-2NEL8uW3zG-IK_ejLbKy9S/view?usp=sharing">Colab link</a> 
 
 
 
-## Handwashing confidence interval
+### Handwashing confidence interval
 
   <a href="https://drive.google.com/file/d/1bQzQZ5K_qopBqVlPwvy5UjYiJVspTXSq/view?usp=sharing">Colab link</a> 
 
-## Credit card handling missing values
+### Credit card handling missing values
   <a href="https://drive.google.com/file/d/1WBvC8lU5aWx0V-snAgo0YPYQOQiDnBDv/view?usp=sharing">Colab link</a> 
 
 
-## Extract stock beautifull soup and nltk
+### Extract stock beautifull soup and nltk
   <a href="https://drive.google.com/file/d/1G7lP5eWpNBdSl7v5Q9-H-UQ0sgSa0lPS/view?usp=sharing">Colab link</a> 
 
-## App market plotly, stripplots
+### App market plotly, stripplots
   <a href="https://drive.google.com/file/d/1E0pSe--UDSg_6RWWB0vlTpIKomZPh7w4/view?usp=sharing">Colab link</a> 
   
   <a href="https://mybinder.org/v2/gh/Simonm952/simonm952.github.io/32a6c16507e049791b0e001ccb4f6bb7531c1198">Binder link</a> 
@@ -49,7 +81,7 @@
   
   <a href="https://gist.github.com/Simonm952/dc85d7fdc4e69d6114ad575f8d81088c">Gist link</a> 
   
-  
+
   
 ### Test-driven machine learning
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
@@ -71,26 +103,6 @@
 ### OOP
 
 <a href="https://colab.research.google.com/drive/1CBSCiuzbqzou2wKk-3yxeOCEssyPsA5Q?usp=sharing">Colab link</a>
-### ml workflow pipelines
-
-
-
-<a href="https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing">Colab link</a> 
-
-### feature engineering
-
- 
-<a href="https://colab.research.google.com/drive/15W6T-3n5u-VZWEhnP21WYtQo-Wb15WGg?usp=sharing">Colab link</a> 
-
-### Xgboost in depth
-
-
-
-<a href="https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing">Colab link</a> 
-
-### NLP
- 
-<a href="https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sharing">Colab link</a> 
 
 
 ### Docker with Tensorflow serving
@@ -128,11 +140,6 @@
 
 
 
-
-## Data science structure
-  <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
-  
- 
 
 
 ---
