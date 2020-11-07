@@ -65,38 +65,32 @@
 <a href="https://colab.research.google.com/drive/1mU7haFAkpYmxmVs3rj_8YuAcK5eJaivm?usp=sharing">Colab link</a> 
 
 ### efficient python code
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1z7DIkqJ6B2C-AhWXjmaktr69cbvn7K6A?usp=sharing)
+ 
+ <a href="https://colab.research.google.com/drive/1z7DIkqJ6B2C-AhWXjmaktr69cbvn7K6A?usp=sharing">Colab link</a>
 
 ### OOP
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1CBSCiuzbqzou2wKk-3yxeOCEssyPsA5Q?usp=sharing)
 
-
-
+<a href="https://colab.research.google.com/drive/1CBSCiuzbqzou2wKk-3yxeOCEssyPsA5Q?usp=sharing">Colab link</a>
 ### ml workflow pipelines
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing)
 
 
 
+<a href="https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing">Colab link</a> 
 
 ### feature engineering
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/15W6T-3n5u-VZWEhnP21WYtQo-Wb15WGg?usp=sharing)
+
+ 
+<a href="https://colab.research.google.com/drive/15W6T-3n5u-VZWEhnP21WYtQo-Wb15WGg?usp=sharing">Colab link</a> 
 
 ### Xgboost in depth
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](
-https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing
-)
 
 
 
-
-
+<a href="https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing">Colab link</a> 
 
 ### NLP
- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](
-https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sharing
-)
-
-
+ 
+<a href="https://colab.research.google.com/drive/1N1EQ_gQ3Zm-k8WTZqr1cRiiLCL6mz9MG?usp=sharing">Colab link</a> 
 
 
 ### Docker with Tensorflow serving
