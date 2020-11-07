@@ -47,6 +47,10 @@
 ## Ml models in production
   <a href="https://colab.research.google.com/drive/1HWRW7PjPxYsf7M8IFUrzZlAkGobk8Wrn?usp=sharing">Colab link</a> 
   
+  <a href="https://gist.github.com/Simonm952/dc85d7fdc4e69d6114ad575f8d81088c">Gist link</a> 
+  
+  
+  
 ### Test-driven machine learning
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
   
