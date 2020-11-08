@@ -150,8 +150,10 @@
 <a href="https://colab.research.google.com/drive/1km2myIZBJcio6iLBCQHKovkrAo9qhPtT?usp=sharing">Colab link</a> 
 
 
+# AWS Machine learning
+---
 
-
+<a href="https://colab.research.google.com/drive/1seuz7wyksSrzmsvwIbfYgMm7fA--O8lu?usp=sharing">Colab link</a> 
 
 
 
