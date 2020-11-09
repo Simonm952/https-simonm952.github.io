@@ -158,6 +158,12 @@
 
 
 
+### Sagemaker pytorch lstm
+<a href="https://colab.research.google.com/drive/1nZxvllQTZ1zaxdMvjBe7RAHmrP6c4min?usp=sharing">Colab link</a> 
+
+
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
