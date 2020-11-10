@@ -165,6 +165,8 @@
 
 <a href="https://colab.research.google.com/drive/1qV9pWkMtniHc8saNx9vDwO6LR73ZU9-c?usp=sharing">Colab link</a> 
 
+# Computer science fundamentals
+
 
 
 # Tips
