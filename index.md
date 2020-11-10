@@ -161,6 +161,12 @@
 ### Sagemaker pytorch lstm
 <a href="https://colab.research.google.com/drive/1nZxvllQTZ1zaxdMvjBe7RAHmrP6c4min?usp=sharing">Colab link</a> 
 
+# Web scraping
+
+<a href="https://colab.research.google.com/drive/1qV9pWkMtniHc8saNx9vDwO6LR73ZU9-c?usp=sharing">Colab link</a> 
+
+
+
 # Tips
 
 ### Use IDE in colab
