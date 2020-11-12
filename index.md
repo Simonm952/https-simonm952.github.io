@@ -167,7 +167,7 @@
 
 # Computer science fundamentals
 
-### Preparatioon coding
+### Preparation coding
 
 <a href="https://colab.research.google.com/drive/1jX6SLR3_yps7gyz_IM7pQWH8_eQKTXBd?usp=sharing">Colab link</a> 
 
