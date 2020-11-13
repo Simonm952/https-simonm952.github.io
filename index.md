@@ -171,7 +171,9 @@
 
 <a href="https://colab.research.google.com/drive/1jX6SLR3_yps7gyz_IM7pQWH8_eQKTXBd?usp=sharing">Colab link</a> 
 
+### Command line and bash scripting
 
+<a href="https://colab.research.google.com/drive/176n3NUjttAwFomRdP947W28g9jrSizE7?usp=sharing">Colab link</a> 
 
 # Tips
 
