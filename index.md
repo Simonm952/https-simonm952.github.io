@@ -175,6 +175,12 @@
 
 <a href="https://colab.research.google.com/drive/176n3NUjttAwFomRdP947W28g9jrSizE7?usp=sharing">Colab link</a> 
 
+### GIT
+
+<a href="https://colab.research.google.com/drive/1HdnU6N1wu0KRBb2jKPTGBqFVHqnz7wVp?usp=sharing">Colab link</a> 
+
+
+
 # Tips
 
 ### Use IDE in colab
