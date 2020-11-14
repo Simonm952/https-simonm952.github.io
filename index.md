@@ -142,7 +142,7 @@
 ### Intro to data engineering and airflow in google cloud
 <a href="https://colab.research.google.com/drive/1ZJENWWI0M51q1P0QeQXVooh9hhGoBbrX?usp=sharing">Colab link</a> 
 
-### Explanation postgres modeling
+### Explanation postgres database design
 <a href="https://colab.research.google.com/drive/1J1Vr1aIxJBreWixZZ0F2FlNxcd2ZwOgZ?usp=sharing">Colab link</a> 
 
 
