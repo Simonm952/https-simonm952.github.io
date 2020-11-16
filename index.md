@@ -194,7 +194,3 @@
 <a href="https://colab.research.google.com/drive/1hp7F2usvz5GYRdjTUAvUlMwNU9kVB9_r?usp=sharing">Colab link</a> 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
