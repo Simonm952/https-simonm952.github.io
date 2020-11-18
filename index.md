@@ -111,7 +111,6 @@
 <a href="https://colab.research.google.com/drive/1lRI3CtgCSdKOQV0Eqt0rXZwTTRHQ3Zue?usp=sharing">Colab link</a> 
 
 # Data engineering 
----
 
 ### Pyspark data engineering pipeline
 
