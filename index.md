@@ -7,7 +7,9 @@
 
 ### Data science structure
   <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
-  
+ 
+ 
+ 
  
 
 ### ml workflow pipelines
@@ -25,7 +27,15 @@
 
 
 
-<a href="https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing">Colab link</a> 
+<a href="https://colab.research.google.com/drive/1pFngFTLABRiY49WXhFRlVaKHUPV70Cvr?usp=sharing">Colab link</a>
+
+### Deep learning basics
+
+
+
+<a href="https://colab.research.google.com/drive/1NluMPexpNSBVf3zlmu4qFU3YMSHSmhw7?usp=sharing">Colab link</a>
+
+
 
 ### NLP
  
