@@ -93,7 +93,11 @@
   <a href="https://gist.github.com/Simonm952/dc85d7fdc4e69d6114ad575f8d81088c">Gist link</a> 
   
 
+### ML engineer production code 
+
+<a href="https://colab.research.google.com/drive/1Wn6r0upi7kupdMtTVJvJanFukWfrC6u8?usp=sharing">Colab link</a> 
   
+
 ### Test-driven machine learning
   <a href="https://colab.research.google.com/drive/1zIqv52XxpW5Ae2Otd-f-zgzC40Dr4kn5?usp=sharing">Colab link</a> 
   
