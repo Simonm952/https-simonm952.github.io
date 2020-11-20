@@ -96,6 +96,10 @@
 ### ML engineer production code 
 
 <a href="https://colab.research.google.com/drive/1Wn6r0upi7kupdMtTVJvJanFukWfrC6u8?usp=sharing">Colab link</a> 
+
+#### Cloud ml workflow 
+
+<a href="https://colab.research.google.com/drive/1kFvLeFSATfF5-dfqbB_jRIxDBDb2kx4h?usp=sharing">Colab link</a> 
   
 
 ### Test-driven machine learning
