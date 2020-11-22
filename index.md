@@ -172,6 +172,11 @@
 
 # AWS Machine learning
 
+### AWS ML pyspark big data
+<a href="https://colab.research.google.com/drive/1thtciJmnfcNGkv5Kax2e85SCAFMb9a5k?usp=sharing">Colab link</a> 
+
+
+
 
 ### Sagemaker xgboost
 <a href="https://colab.research.google.com/drive/1seuz7wyksSrzmsvwIbfYgMm7fA--O8lu?usp=sharing">Colab link</a> 
