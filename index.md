@@ -104,6 +104,12 @@
 <a href="https://colab.research.google.com/drive/1bMnmKdSD2zMBjNAJD8OmFNdQ_JIel7FD?usp=sharing">Colab link</a> 
 
 
+### ML azure end to end
+
+<a href="https://colab.research.google.com/drive/1pVZSPkXWDkqN4Qf7h_9Lk08cxuiUj6E2?usp=sharing">Colab link</a> 
+
+
+
 
 #### Cloud ml workflow 
 
