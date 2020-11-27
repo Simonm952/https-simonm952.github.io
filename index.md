@@ -108,6 +108,11 @@
 
 <a href="https://colab.research.google.com/drive/1pVZSPkXWDkqN4Qf7h_9Lk08cxuiUj6E2?usp=sharing">Colab link</a> 
 
+### ML azure full stack react project 
+<a href="https://colab.research.google.com/drive/1gBzW4BM-srs25K1xD4EyeB1H_hn2jxKw?usp=sharing">Colab link</a> 
+
+
+
 
 
 
