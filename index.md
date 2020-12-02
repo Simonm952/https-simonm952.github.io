@@ -218,7 +218,8 @@
 
 # React overview
 
-https://colab.research.google.com/drive/18VCHfNZewIChPO60kyLhPDJ4T7nQpeAL?usp=sharing
+<a href="https://colab.research.google.com/drive/18VCHfNZewIChPO60kyLhPDJ4T7nQpeAL?usp=sharing">Colab link</a> 
+
 
 # Computer science fundamentals
 
