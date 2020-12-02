@@ -104,6 +104,12 @@
 <a href="https://colab.research.google.com/drive/1bMnmKdSD2zMBjNAJD8OmFNdQ_JIel7FD?usp=sharing">Colab link</a> 
 
 
+
+### ML computer vision cat project
+
+<a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
+
+
 ### ML azure end to end
 
 <a href="https://colab.research.google.com/drive/1pVZSPkXWDkqN4Qf7h_9Lk08cxuiUj6E2?usp=sharing">Colab link</a> 
@@ -208,6 +214,11 @@
 # Web scraping
 
 <a href="https://colab.research.google.com/drive/1qV9pWkMtniHc8saNx9vDwO6LR73ZU9-c?usp=sharing">Colab link</a> 
+
+
+# React overview
+
+https://colab.research.google.com/drive/18VCHfNZewIChPO60kyLhPDJ4T7nQpeAL?usp=sharing
 
 # Computer science fundamentals
 
