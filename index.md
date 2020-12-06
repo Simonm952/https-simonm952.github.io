@@ -88,7 +88,7 @@
 # Ml models in production
 
 
-### ML prooduction intro
+### ML production intro
 
   <a href="https://colab.research.google.com/drive/1HWRW7PjPxYsf7M8IFUrzZlAkGobk8Wrn?usp=sharing">Colab link</a> 
   
