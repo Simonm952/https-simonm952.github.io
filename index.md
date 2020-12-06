@@ -87,10 +87,12 @@
 
 # Ml models in production
 
+
+### ML prooduction intro
+
   <a href="https://colab.research.google.com/drive/1HWRW7PjPxYsf7M8IFUrzZlAkGobk8Wrn?usp=sharing">Colab link</a> 
   
-  <a href="https://gist.github.com/Simonm952/dc85d7fdc4e69d6114ad575f8d81088c">Gist link</a> 
-  
+
 
 
 
