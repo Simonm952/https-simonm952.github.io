@@ -9,8 +9,7 @@
   <a href="https://colab.research.google.com/drive/1BAfExUTDR8Muj7yc3-83Y8L0ybvD7h84#scrollTo=e_dJUKXNI8-w">Colab link</a>
  
  
- Overview of data science with Python, Pandas
- 
+
 
 ### ml workflow pipelines
 
@@ -84,7 +83,7 @@
 ### App market plotly, stripplots
   <a href="https://drive.google.com/file/d/1E0pSe--UDSg_6RWWB0vlTpIKomZPh7w4/view?usp=sharing">Colab link</a> 
   
-  <a href="https://mybinder.org/v2/gh/Simonm952/simonm952.github.io/32a6c16507e049791b0e001ccb4f6bb7531c1198">Binder link</a> 
+
 
 # Ml models in production
 
@@ -215,10 +214,6 @@
 
 <a href="https://colab.research.google.com/drive/1qV9pWkMtniHc8saNx9vDwO6LR73ZU9-c?usp=sharing">Colab link</a> 
 
-
-# React overview
-
-<a href="https://colab.research.google.com/drive/18VCHfNZewIChPO60kyLhPDJ4T7nQpeAL?usp=sharing">Colab link</a> 
 
 
 # Computer science fundamentals
