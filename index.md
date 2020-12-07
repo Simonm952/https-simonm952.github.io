@@ -237,7 +237,7 @@
 <a href="https://colab.research.google.com/drive/1QqoZbdwx2opkCH77R1mSmV-COMEdw0-F?usp=sharing">Colab link</a> 
 
 
-# Tips
+# Extra
 
 ### Use IDE in colab
 
