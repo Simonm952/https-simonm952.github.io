@@ -11,13 +11,13 @@
  
 
 
-### ml workflow pipelines
+### ML workflow pipelines
 
 
 
 <a href="https://colab.research.google.com/drive/12QZXRzay2P0AFNNojlvxz7mxIxnNihJn?usp=sharing">Colab link</a> 
 
-### feature engineering
+### Feature engineering
 
  
 <a href="https://colab.research.google.com/drive/15W6T-3n5u-VZWEhnP21WYtQo-Wb15WGg?usp=sharing">Colab link</a> 
