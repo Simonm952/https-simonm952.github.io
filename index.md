@@ -264,7 +264,7 @@
 
 ### Tensorflow timeseries
 
-<a href="https://colab.research.google.com/drive/1KBFPprzH8fXg1sK3okzG_6UbKOIkHYKw?usp=sharing">Colab link</a> 
+<a href="https://colab.research.google.com/drive/1RoZS7v74YkLaSyk5XXoiBM4ecKwzCp_l?usp=sharing">Colab link</a> 
 
 
 
