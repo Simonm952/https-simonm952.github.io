@@ -251,6 +251,16 @@
 
 <a href="https://colab.research.google.com/drive/1X6JOrUles19lfSvW7x3WSzMIkJLdBdmq?usp=sharing">Colab link</a> 
 
+### Preparation case study
+
+<a href="https://colab.research.google.com/drive/1zWOptLOCqQEIImHque1CO5FFIDUc1xzN?usp=sharing">Colab link</a> 
+
+
+
+
+### Tensorflow imbalance/ avoid overfit and hyperparameter
+
+<a href="https://colab.research.google.com/drive/1s9H3Hbg9BCWhayRf3H1LTMiUC8pzggGt?usp=sharing">Colab link</a> 
 
 
 
