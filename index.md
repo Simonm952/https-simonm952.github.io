@@ -94,8 +94,6 @@
   
 
 
-
-
 ### ML engineer production code 
 
 <a href="https://colab.research.google.com/drive/1Wn6r0upi7kupdMtTVJvJanFukWfrC6u8?usp=sharing">Colab link</a> 
@@ -137,11 +135,11 @@
 
 
 
-### software engineering for data science
+### Software engineering for data science
 
 <a href="https://colab.research.google.com/drive/1mU7haFAkpYmxmVs3rj_8YuAcK5eJaivm?usp=sharing">Colab link</a> 
 
-### efficient python code
+### Efficient python code
  
  <a href="https://colab.research.google.com/drive/1z7DIkqJ6B2C-AhWXjmaktr69cbvn7K6A?usp=sharing">Colab link</a>
 
