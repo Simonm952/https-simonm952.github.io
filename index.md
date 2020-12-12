@@ -266,6 +266,9 @@
 
 <a href="https://colab.research.google.com/drive/1RoZS7v74YkLaSyk5XXoiBM4ecKwzCp_l?usp=sharing">Colab link</a> 
 
+### Projects sensor data
+
+<a href="https://colab.research.google.com/drive/17pRm3G10RksoFdW1iaSmG21k5bElfuRO?usp=sharing">Colab link</a> 
 
 
 
