@@ -104,11 +104,6 @@
 
 
 
-### ML computer vision cat project
-
-<a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
-
-
 ### ML azure end to end
 
 <a href="https://colab.research.google.com/drive/1pVZSPkXWDkqN4Qf7h_9Lk08cxuiUj6E2?usp=sharing">Colab link</a> 
@@ -269,6 +264,10 @@
 ### Projects sensor data
 
 <a href="https://colab.research.google.com/drive/17pRm3G10RksoFdW1iaSmG21k5bElfuRO?usp=sharing">Colab link</a> 
+
+### ML computer vision cat project
+
+<a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
 
 
 
