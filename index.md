@@ -268,9 +268,13 @@
 
 <a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
 
-### Case study
+### Case study (basic coding)
 
 <a href="https://colab.research.google.com/drive/1sXR8zwJJfy5UmLbdIsyp1NZ5GBPTgKjk?usp=sharing">Colab link</a> 
+
+### Case study without time series
+
+<a href="https://colab.research.google.com/drive/1g8jFo7dHyMBK6RsxJWwTYhOZrQaFlXSq?usp=sharing">Colab link</a> 
 
 
 
