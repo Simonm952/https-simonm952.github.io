@@ -279,12 +279,18 @@
 
 ### Case study time series
 
-<a href="### Case study without time series
+
 
 <a href="https://colab.research.google.com/drive/1g8jFo7dHyMBK6RsxJWwTYhOZrQaFlXSq?usp=sharing">Colab link</a> 
 
 
-">Colab link</a> 
+### Case study object detection
+
+
+
+<a href="https://colab.research.google.com/drive/1_j3CO0g59HyV_hlzv-xR-KBSzuyOhSJn?usp=sharing">Colab link</a> 
+
+
 
 
 
