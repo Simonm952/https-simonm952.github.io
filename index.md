@@ -290,6 +290,12 @@
 
 <a href="https://colab.research.google.com/drive/1_j3CO0g59HyV_hlzv-xR-KBSzuyOhSJn?usp=sharing">Colab link</a> 
 
+### Case study text analyzing
+
+
+
+<a href="https://colab.research.google.com/drive/1IAS8jmznyotMQEtD1mjwC_NtnBJRRqEj?usp=sharing">Colab link</a> 
+
 
 
 
