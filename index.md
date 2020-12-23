@@ -280,7 +280,6 @@
 ### Case study time series
 
 
-
 <a href="https://colab.research.google.com/drive/13cPSFvi4VslpE8LMno_hCmVKeNlMpaFl?usp=sharing">Colab link</a> 
 
 
