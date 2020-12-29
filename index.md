@@ -268,7 +268,7 @@
 
 <a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
 
-### Case study (basic coding)
+### Case study(basic coding)
 
 <a href="https://colab.research.google.com/drive/1sXR8zwJJfy5UmLbdIsyp1NZ5GBPTgKjk?usp=sharing">Colab link</a> 
 
@@ -290,7 +290,6 @@
 <a href="https://colab.research.google.com/drive/1_j3CO0g59HyV_hlzv-xR-KBSzuyOhSJn?usp=sharing">Colab link</a> 
 
 ### Case study text analyzing
-
 
 
 <a href="https://colab.research.google.com/drive/1IAS8jmznyotMQEtD1mjwC_NtnBJRRqEj?usp=sharing">Colab link</a> 
