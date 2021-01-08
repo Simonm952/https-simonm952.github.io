@@ -115,7 +115,7 @@
 
 
 
-#### Cloud ml workflow 
+#### Cloud ML workflow 
 
 <a href="https://colab.research.google.com/drive/1kFvLeFSATfF5-dfqbB_jRIxDBDb2kx4h?usp=sharing">Colab link</a> 
   
