@@ -177,6 +177,9 @@
 ### Airflow project
 <a href="https://colab.research.google.com/drive/1N__XhK9q-l07132b7oEFfsgkVl5-2XRh?usp=sharing">Colab link</a> 
 
+### Data Streaming With Apache Kafka project
+<a href="https://colab.research.google.com/drive/1uF569J4oaFK-mva_FEy-niKMmZY90wqQ?usp=sharing">Colab link</a> 
+
 
 
 
