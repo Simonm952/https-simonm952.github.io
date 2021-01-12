@@ -277,7 +277,7 @@
 
 <a href="https://colab.research.google.com/drive/1jsSU6zT4RVx4ODbgZ1DkOKNFD9HTlFWH?usp=sharing">Colab link</a> 
 
-### Case study(basic coding)
+### Case study ML 
 
 <a href="https://colab.research.google.com/drive/1sXR8zwJJfy5UmLbdIsyp1NZ5GBPTgKjk?usp=sharing">Colab link</a> 
 
