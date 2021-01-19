@@ -268,7 +268,7 @@
 
 <a href="https://colab.research.google.com/drive/1s9H3Hbg9BCWhayRf3H1LTMiUC8pzggGt?usp=sharing">Colab link</a> 
 
-### Tensorflow timeseries
+### Tensorflow time series
 
 <a href="https://colab.research.google.com/drive/1RoZS7v74YkLaSyk5XXoiBM4ecKwzCp_l?usp=sharing">Colab link</a> 
 
