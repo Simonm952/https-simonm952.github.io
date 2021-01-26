@@ -149,6 +149,13 @@
 
 <a href="https://colab.research.google.com/drive/1lRI3CtgCSdKOQV0Eqt0rXZwTTRHQ3Zue?usp=sharing">Colab link</a> 
 
+# Data engineering structured
+
+### workflow data engineering
+<a href="https://colab.research.google.com/drive/1sAEWvgVqPQPtfiPhNg0H6ItLxiSDZdc1?usp=sharing">Colab link</a> 
+
+
+
 # Data engineering 
 
 ### Pyspark data engineering pipeline
