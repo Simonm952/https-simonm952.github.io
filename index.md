@@ -157,6 +157,8 @@
 ### sql project
 <a href="https://colab.research.google.com/drive/1JxaCExVB2B6tjTihYc5oo3RJ9khvH9ph?usp=sharing">Colab link</a> 
 
+### Hadoop hands-on project
+<a href="https://colab.research.google.com/drive/12Yt31UK8wbuLjXlA5EVozyWR4-c8Jb5C?usp=sharing">Colab link</a> 
 
 
 
