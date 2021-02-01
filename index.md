@@ -182,6 +182,10 @@
 
 <a href="https://colab.research.google.com/drive/1tseaGtIIoBJ3o2qrYP1OqB3x78eo31Jn?usp=sharing">Colab link</a> 
 
+### Data warehouse project
+
+<a href="https://colab.research.google.com/drive/18rielZq1CNdD0_uTNWMBDwQl9SkYhSAO?usp=sharing">Colab link</a> 
+
 
 ### Warehouse with AWS redshift cluster 
 <a href="https://colab.research.google.com/drive/1KVqMI_Y4BB_KD8QV1tl-1Ns-_PuoOIxj?usp=sharing">Colab link</a> 
