@@ -167,6 +167,8 @@
 ### Relational Data Models normalizing, denormalizing and fact tables
 <a href="https://colab.research.google.com/drive/113IP7L0n4JTOWMbTRrnheEjktDxQerrX?usp=sharing">Colab link</a> 
 
+### NoSQL Data Models
+<a href="https://colab.research.google.com/drive/1SwErv80YaMRfeH8QzLc97C9YBekzUYjx?usp=sharing">Colab link</a> 
 
 
 
