@@ -164,6 +164,8 @@
 
 <a href="https://colab.research.google.com/drive/1sywzbMd-_vu71U6PrnfoM9pOzWT7Naxv?usp=sharing">Colab link</a> 
 
+### Relational Data Models normalizing, denormalizing and fact tables
+<a href="https://colab.research.google.com/drive/113IP7L0n4JTOWMbTRrnheEjktDxQerrX?usp=sharing">Colab link</a> 
 
 
 
