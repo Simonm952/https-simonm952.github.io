@@ -160,6 +160,12 @@
 ### Hadoop hands-on project
 <a href="https://colab.research.google.com/drive/12Yt31UK8wbuLjXlA5EVozyWR4-c8Jb5C?usp=sharing">Colab link</a> 
 
+### Data modeling 
+
+<a href="https://colab.research.google.com/drive/1sywzbMd-_vu71U6PrnfoM9pOzWT7Naxv?usp=sharing">Colab link</a> 
+
+
+
 
 
 # Data engineering 
