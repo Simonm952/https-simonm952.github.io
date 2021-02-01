@@ -175,6 +175,9 @@
 <a href="https://colab.research.google.com/drive/1BfyXRamo-DOZH0TN8d-XINXsVZagIzfs?usp=sharing">Colab link</a> 
 
 
+### Data lake
+<a href="https://colab.research.google.com/drive/1T-sZnpHHvUfMwqpshtO9L-n0O1JFgz69?usp=sharing">Colab link</a> 
+
 # Data engineering 
 
 
