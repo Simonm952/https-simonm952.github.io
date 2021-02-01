@@ -171,6 +171,9 @@
 <a href="https://colab.research.google.com/drive/1SwErv80YaMRfeH8QzLc97C9YBekzUYjx?usp=sharing">Colab link</a> 
 
 
+### Data warehouse
+<a href="https://colab.research.google.com/drive/1BfyXRamo-DOZH0TN8d-XINXsVZagIzfs?usp=sharing">Colab link</a> 
+
 
 # Data engineering 
 
