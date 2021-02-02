@@ -183,6 +183,11 @@
 <a href="https://colab.research.google.com/drive/1Sz5mQ7j8QuGtD2icz5ZY0KBWxduHDKh3?usp=sharing">Colab link</a> 
 
 
+### Data streaming
+<a href="https://colab.research.google.com/drive/1hvBJ3vjus5gBM6Qk_qwWvJ9kHdyeQLXZ?usp=sharing">Colab link</a> 
+
+
+
 # Data engineering 
 
 
