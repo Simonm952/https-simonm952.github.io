@@ -186,6 +186,9 @@
 ### Data streaming
 <a href="https://colab.research.google.com/drive/1hvBJ3vjus5gBM6Qk_qwWvJ9kHdyeQLXZ?usp=sharing">Colab link</a> 
 
+### Graph db
+
+
 
 
 # Data engineering 
