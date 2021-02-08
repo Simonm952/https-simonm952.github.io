@@ -191,6 +191,13 @@
 <a href="https://colab.research.google.com/drive/1wipsDv9R36ylsRJ3WL5ZR7ykcePedefM?usp=sharing">Colab link</a> 
 
 
+### SPARQL
+
+<a href="https://colab.research.google.com/drive/1vEyp0Oqj3LKxRDX-lLuKbpjJuf2tRGMO?usp=sharing">Colab link</a> 
+
+
+
+
 # Data engineering 
 
 
