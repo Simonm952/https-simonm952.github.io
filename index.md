@@ -33,6 +33,14 @@
 
 <a href="https://colab.research.google.com/drive/1NluMPexpNSBVf3zlmu4qFU3YMSHSmhw7?usp=sharing">Colab link</a>
 
+
+### Object Recognition
+
+
+
+<a href="https://colab.research.google.com/drive/1U2b5uIeK8sWh5U8i-rfb6EZbImFjBSdM?usp=sharing">Colab link</a>
+
+
 ### Clustering
 
 
