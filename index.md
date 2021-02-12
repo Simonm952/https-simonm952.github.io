@@ -102,6 +102,12 @@
 
   <a href="https://colab.research.google.com/drive/1HWRW7PjPxYsf7M8IFUrzZlAkGobk8Wrn?usp=sharing">Colab link</a> 
   
+  
+### end to end data science ineuron 
+
+  <a href="https://colab.research.google.com/drive/1ZKzosTHak6scNqFZ1QsJlo3RUi6XI8Qz?usp=sharing">Colab link</a> 
+  
+
 
 
 ### ML engineer production code 
