@@ -213,6 +213,9 @@
 
 <a href="https://colab.research.google.com/drive/1vEyp0Oqj3LKxRDX-lLuKbpjJuf2tRGMO?usp=sharing">Colab link</a> 
 
+### GraphQL
+
+<a href="https://colab.research.google.com/drive/1vEyp0Oqj3LKxRDX-lLuKbpjJuf2tRGMO?usp=sharing">Colab link</a> 
 
 
 
