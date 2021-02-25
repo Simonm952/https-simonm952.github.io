@@ -38,7 +38,7 @@
 
 
 
-<a href="https://colab.research.google.com/drive/1U2b5uIeK8sWh5U8i-rfb6EZbImFjBSdM?usp=sharing">Colab link</a>
+<a href="https://colab.research.google.com/drive/1PtQSAX-ZovkIpVERBQCXMRJNxS12etDs#scrollTo=WMkxCXOzKKc3">Colab link</a>
 
 
 ### Clustering
