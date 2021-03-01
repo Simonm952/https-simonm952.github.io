@@ -41,6 +41,13 @@
 <a href="https://colab.research.google.com/drive/1PtQSAX-ZovkIpVERBQCXMRJNxS12etDs#scrollTo=WMkxCXOzKKc3">Colab link</a>
 
 
+### Object Recognition evaluation score
+
+
+
+<a href="https://colab.research.google.com/drive/1mzP-XkQnQZEhr65mGIFAkemDrZCRRu7j?usp=sharing">Colab link</a>
+
+
 ### Clustering
 
 
