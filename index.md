@@ -41,6 +41,13 @@
 <a href="https://colab.research.google.com/drive/1PtQSAX-ZovkIpVERBQCXMRJNxS12etDs#scrollTo=WMkxCXOzKKc3">Colab link</a>
 
 
+
+### Object detection edge device and camera
+
+
+
+<a href="https://colab.research.google.com/drive/14NKAwtUu6oFGjAhnBl1lkKbFMnOf9h2o?usp=sharing">Colab link</a>
+
 ### Object Recognition evaluation 
 
 
